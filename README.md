@@ -3,17 +3,14 @@
 # Table of contents
 * [Project Overview](#project-overview)
 * [Deployment Link](#deployment-link)
-* [Timeframe and Team](#timeframe-and-team) 
+ 
 * [Technologies Used](#technologies-used)
 * [Brief](#brief) 
 * [Planning](#planning)
 * [Build Process](#build-process)
 * [Challenges](#challenges)
 * [Wins](#wins)
-* [Key Learnings](#key-learnings)
-* [Bugs](#bugs)
-* [Future Improvements](#future-improvements) 
-* [Other Projects](#other-projects) 
+ 
 
 # Project Overview
 
