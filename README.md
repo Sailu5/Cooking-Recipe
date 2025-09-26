@@ -120,4 +120,16 @@ __Other__
 
 * The ingredient list on our app looks straight forward in the deployed project, but the code to display the ingredients was a JavaScript challenge for us. The data returned strings of ingredients (ex: “strIngredient1”: “Lentils”) and strings of strings of measurements (ex: “strMeasure1: “1 cup”). The strings could number up to 20, but not all recipes had that many ingredients. We used Object.entries()to get an array of the key-value pairs of the recipe data and then iterated through returning and keys that contained “strIngredient” whose values weren’t null and pushed them to a new array of all the ingredient names. 
 
- 
+## ✨ Features
+- Browse recipes by categories  
+- View all recipes in a selected category  
+- View full recipe details (ingredients, instructions, YouTube video)  
+- Random recipe generator  
+- Loading spinner & error handling  
+
+
+ ## 🔮 Future Improvements
+- Add search functionality by name/ingredient  
+- Save favorite recipes to localStorage  
+- Add pagination for large categories  
+- Add dark mode for better UX  
