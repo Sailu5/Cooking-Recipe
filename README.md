@@ -14,7 +14,7 @@
 
 # Project Overview
 
-This is the second project I did for a Software Engineering Immersive course through General Assembly London. In this app, users can navigate through categories of recipes to individual recipes, or jump to a randomly selected recipe. 
+ In this Cooking food recipe app, users can navigate through categories of recipes to individual recipes, or jump to a randomly selected recipe. 
 
 ![Landing](README-Images/sample-for-recipe-details.png)
 
